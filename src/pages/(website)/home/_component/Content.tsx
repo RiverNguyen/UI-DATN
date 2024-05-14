@@ -6,7 +6,7 @@ const Content = () => {
         <>
             <div className="grid grid-cols-2 gap-0 w-full">
                 <div className="">
-                    <img src="public/4.png" alt="" />
+                    <img src="src/assets/images/4.png" alt="" />
                 </div>
                 <div className="bg-[#F3F5F7] flex items-center">
                     <div className="ml-14">

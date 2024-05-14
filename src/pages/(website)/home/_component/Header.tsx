@@ -33,9 +33,9 @@ const HeaderPage = () => {
                     <div className="">
                         <Link to={""}>
                             <img
-                                src="public/3legant.svg"
+                                src="src/assets/images/3legant.svg"
                                 className="h-[24px]"
-                                alt="public/vite.svg"
+                                alt="src/assets/images/vite.svg"
                             />
                         </Link>
                     </div>

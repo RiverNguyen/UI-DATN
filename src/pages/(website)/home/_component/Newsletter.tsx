@@ -4,7 +4,7 @@ const Newsletter = () => {
     return (
         <>
             <div className="relative mt-[74px]">
-                <img src="public/footer.png" alt="" />
+                <img src="src/assets/images/footer.png" alt="" />
                 <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-center tracking-wider">
                     <h1 className="font-medium text-[40px]">
                         Join Our Newsletter

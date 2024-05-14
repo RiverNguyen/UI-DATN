@@ -52,10 +52,10 @@ export default function Banner() {
                         className="mySwiper rounded-lg"
                     >
                         <SwiperSlide>
-                            <img src="public/banner.png" />
+                            <img src="src/assets/images/banner.png" />
                         </SwiperSlide>
                         <SwiperSlide>
-                            <img src="public/banner-1.png" />
+                            <img src="src/assets/images/banner-1.png" />
                         </SwiperSlide>
                         <SwiperSlide>
                             <img src="https://swiperjs.com/demos/images/nature-3.jpg" />
@@ -93,7 +93,7 @@ export default function Banner() {
                         </div>
                         <img
                             className="w-[548px] h-[664px] mx-auto mt-[6rem] hover:scale-105 transition duration-500 ease-in-out transform cursor-pointer"
-                            src="public/Paste image.png"
+                            src="src/assets/images/Paste image.png"
                             alt=""
                         />
                     </div>
@@ -108,7 +108,7 @@ export default function Banner() {
                             </Link>
                         </div>
                         <img
-                            src="public/1.png"
+                            src="src/assets/images/1.png"
                             className="h-[332px] w-[260px] my-auto float-end mr-16 mt-6 hover:scale-105 transition duration-500 ease-in-out transform cursor-pointer"
                             alt=""
                         />
@@ -124,7 +124,7 @@ export default function Banner() {
                             </Link>
                         </div>
                         <img
-                            src="public/2.png"
+                            src="src/assets/images/2.png"
                             className="h-[260px] w-[280px] float-end mr-16 mt-16 hover:scale-105 transition duration-500 ease-in-out transform cursor-pointer"
                             alt=""
                         />
@@ -155,7 +155,7 @@ export default function Banner() {
                         <div className="bg-[#F3F5F7] rounded-xl relative group">
                             <Link to={""} className="cursor-pointer">
                                 <img
-                                    src="public/3.png"
+                                    src="src/assets/images/3.png"
                                     alt=""
                                     className="transform scale-100 group-hover:scale-105 transition-transform duration-500 ease-in-out"
                                 />
@@ -199,7 +199,7 @@ export default function Banner() {
                     <SwiperSlide>
                         <div className="bg-[#F3F5F7] rounded-xl relative group">
                             <img
-                                src="public/3.png"
+                                src="src/assets/images/3.png"
                                 alt=""
                                 className="transform scale-100 group-hover:scale-105 transition-transform duration-500 ease-in-out"
                             />
@@ -234,7 +234,7 @@ export default function Banner() {
                     <SwiperSlide>
                         <div className="bg-[#F3F5F7] rounded-xl relative group">
                             <img
-                                src="public/3.png"
+                                src="src/assets/images/3.png"
                                 alt=""
                                 className="transform scale-100 group-hover:scale-105 transition-transform duration-500 ease-in-out"
                             />
@@ -269,7 +269,7 @@ export default function Banner() {
                     <SwiperSlide>
                         <div className="bg-[#F3F5F7] rounded-xl relative group">
                             <img
-                                src="public/3.png"
+                                src="src/assets/images/3.png"
                                 alt=""
                                 className="transform scale-100 group-hover:scale-105 transition-transform duration-500 ease-in-out"
                             />
@@ -304,7 +304,7 @@ export default function Banner() {
                     <SwiperSlide>
                         <div className="bg-[#F3F5F7] rounded-xl relative group">
                             <img
-                                src="public/3.png"
+                                src="src/assets/images/3.png"
                                 alt=""
                                 className="transform scale-100 group-hover:scale-105 transition-transform duration-500 ease-in-out"
                             />
@@ -339,7 +339,7 @@ export default function Banner() {
                     <SwiperSlide>
                         <div className="bg-[#F3F5F7] rounded-xl relative group">
                             <img
-                                src="public/3.png"
+                                src="src/assets/images/3.png"
                                 alt=""
                                 className="transform scale-100 group-hover:scale-105 transition-transform duration-500 ease-in-out"
                             />
@@ -375,7 +375,7 @@ export default function Banner() {
                         <div className="bg-[#F3F5F7] rounded-xl relative group">
                             <Link to={""} className="cursor-pointer">
                                 <img
-                                    src="public/3.png"
+                                    src="src/assets/images/3.png"
                                     alt=""
                                     className="transform scale-100 group-hover:scale-105 transition-transform duration-500 ease-in-out"
                                 />
@@ -414,7 +414,7 @@ export default function Banner() {
                     <SwiperSlide>
                         <div className="bg-[#F3F5F7] rounded-xl relative group">
                             <img
-                                src="public/3.png"
+                                src="src/assets/images/3.png"
                                 alt=""
                                 className="transform scale-100 group-hover:scale-105 transition-transform duration-500 ease-in-out"
                             />

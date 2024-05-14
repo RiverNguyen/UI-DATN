@@ -18,7 +18,7 @@ const Articles = () => {
             <div className="grid grid-cols-3 gap-7 ">
                 <div className="*:mb-3">
                     <img
-                        src="public/5.png"
+                        src="src/assets/images/5.png"
                         alt=""
                         className="rounded-lg hover:scale-105 transform ease-in-out duration-500"
                     />
@@ -34,7 +34,7 @@ const Articles = () => {
                 </div>
                 <div className="*:mb-3">
                     <img
-                        src="public/5.png"
+                        src="src/assets/images/5.png"
                         alt=""
                         className="rounded-lg hover:scale-105 transform ease-in-out duration-500"
                     />
@@ -50,7 +50,7 @@ const Articles = () => {
                 </div>
                 <div className="*:mb-3">
                     <img
-                        src="public/5.png"
+                        src="src/assets/images/5.png"
                         alt=""
                         className="rounded-lg hover:scale-105 transform ease-in-out duration-500"
                     />
